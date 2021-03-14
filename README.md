@@ -1,5 +1,5 @@
 # wound_area
-- Calculation of the area for severe, moderate and mild wounds as well as normal tissue
+- Calculation of the surface area for severe, moderate and mild wounds as well as normal tissue
 - Cite this paper in case of using the codes:
 http://ijt.arakmu.ac.ir/article-1-809-en.html
 
